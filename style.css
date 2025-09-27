@@ -6,10 +6,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
+    background-color: #f4f4f4;
    
     
 }
 header {
+    color: #f4f4f4;
+    background-color: #4B4B4B;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,6 +34,8 @@ header {
     opacity:0.9;
 }
 nav ul {
+    color: #f4f4f4;
+    background-color: #4B4B4B;
     list-style: none;
     display: flex;
     gap: 20px;
@@ -48,4 +53,49 @@ nav a:hover {
     color: red;
     transform:translateY(-2px);
     
+}
+
+h2 {
+    text-align: center;
+
+}
+
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+
+img {
+    object-fit: cover;
+    width: 100px;
+    border-radius: 7px;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+.list {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-evenly;
+
+    h3{
+        position: relative;
+        right: 13px;
+    }
+    
+}
+
+.footer{
+    background-color: #4B4B4B ;
+    color: #f4f4f4;
+    text-align: center;
+    margin: 10px 0 0;
+    padding: 10px;
 }
