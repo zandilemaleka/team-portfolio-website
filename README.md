@@ -1,6 +1,6 @@
-# Abandoned Stars
+# 🅰️Abandoned Stars
 
-Welcome to Abandoned Stars, a website
+Welcome to Abandoned Stars, the place of creativity and decay of code.
 
 ## 🫂Meet The Members
 
@@ -17,3 +17,7 @@ A mobile-responsive website showcasing the team members Bio's. Built collaborati
 Click here:""
 
 # ⚙️Installation
+
+1. Clone this project
+2. Set up a local folder
+3. Open index.html
