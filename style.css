@@ -55,6 +55,8 @@ nav a:hover {
     
 }
 
+
+
 h2 {
     text-align: center;
 
@@ -88,8 +90,11 @@ img:hover{
     h3{
         position: relative;
         right: 13px;
-    }
-    
+    }    
+}
+
+.list li{
+    list-style:none;
 }
 
 .footer{
