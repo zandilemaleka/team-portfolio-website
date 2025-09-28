@@ -126,3 +126,69 @@ img:hover {
 .members {
     margin: 130px 15px 0 15px;
 }
+
+
+@media (max-width: 600px) {
+    header {
+        display: block;
+        text-align: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        padding: 0.5rem 1rem;
+
+    }
+
+    nav ul li {
+        width: 100%;
+    }
+
+    nav ul {
+        display: block;
+        padding: 0;
+        gap: 0.4rem;
+    }
+
+    nav ul a {
+        display: block;
+        padding: 0.5rem;
+    }
+
+    .footer {
+        background-color: #4B4B4B;
+        color: #f4f4f4;
+        text-align: center;
+        margin: 10px 0 0;
+        padding: 10px;
+    }
+
+    .members {
+        margin: 280px 15px 15px;
+    }
+}
+
+
+@media (min-width: 601px) {
+    
+    .members {
+        margin: 130px 15px 15px;
+    }
+}
+
+@media (min-width: 768px) {
+    
+    .members {
+        margin: 130px 15px 15px;
+    }
+}
+
+
+@media (min-width: 1000px) {
+    
+    .members {
+        margin: 130px 15px 15px;
+    }
+}
