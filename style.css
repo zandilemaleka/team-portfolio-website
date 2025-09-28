@@ -79,6 +79,15 @@ h2 {
     color: #667eea;
 
 }
+.skill {
+    color: #f4f4f4;
+}
+.hobby {
+    color: #f4f4f4;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .image {
     margin-top: 20px;
@@ -99,13 +108,14 @@ img {
 img:hover {
     transform: scale(1.2);
 }
-
-.list {
-    background-color: #667eea;
+.list{
+background-color: #667eea;
     border-radius: 8px;
     display: flex;
     justify-content: space-evenly;
 }
+
+   
 
 .list li {
     list-style: none;
@@ -120,7 +130,7 @@ img:hover {
 }
 
 .members {
-    margin: 130px 15px 0 15px;
+    margin: 130px 15px 15px;
 }
 
 
