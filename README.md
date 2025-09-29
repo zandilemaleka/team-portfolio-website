@@ -9,7 +9,7 @@ A mobile-responsive website showcasing the team members Bio's. Built collaborati
 💡Features
 
 -Two-tone background color with a clean header containing title, slogan and navigation. 
--Unique member images and Id's
+*Unique member images and Id's
 -A section showing each members Bio and a web footer.
 
 # 🚀Live Demo
