@@ -130,7 +130,7 @@ background-color: #667eea;
 }
 
 .members {
-    margin: 130px 15px 15px;
+    margin: 130px 15px 15px 15px;
 }
 
 
@@ -181,7 +181,7 @@ background-color: #667eea;
     }
 
     .members {
-        margin: 180px 15px 15px;
+        margin: 180px 15px 15px 15px;
     }
 }
 
@@ -189,14 +189,14 @@ background-color: #667eea;
 @media (min-width: 601px) {
 
     .members {
-        margin: 130px 15px 15px;
+        margin: 130px 15px 15px 15px;
     }
 }
 
 @media (min-width: 768px) {
 
     .members {
-        margin: 130px 15px 15px;
+        margin: 130px 15px 15px 15px;
     }
 }
 
@@ -204,6 +204,6 @@ background-color: #667eea;
 @media (min-width: 1000px) {
 
     .members {
-        margin: 130px 15px 15px;
+        margin: 130px 15px 15px 15px;
     }
 }
