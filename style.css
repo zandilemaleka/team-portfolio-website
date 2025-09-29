@@ -121,6 +121,22 @@ background-color: #667eea;
     list-style: none;
 }
 
+.zandile {
+    border-radius: 7px;
+    box-shadow: inset  0 1px 2px  rgba(0, 0, 0, 0.2);
+}
+.phenyo {
+    border-radius: 7px;
+    box-shadow: inset  0 1px 2px  rgba(0, 0, 0, 0.2);
+}
+.thato {
+    border-radius: 7px;
+    box-shadow: inset  0 1px 2px  rgba(0, 0, 0, 0.2);
+}
+.damian {
+    border-radius: 7px;
+    box-shadow: inset  0 1px 2px  rgba(0, 0, 0, 0.2);
+}
 .footer {
     background-color: #667eea;
     color: #f4f4f4;
